@@ -2,7 +2,7 @@
 This repository contains the code for reproducing the models built for solving the challenges of the Artificial Neural Network &amp; Deep Learning Course of Politecnico di Milano.
 The model was evaluated using [Codalab](https://codalab.lisn.upsaclay.fr/) with hidden tests.
 
-![grade](https://img.shields.io/badge/Grade-100%25-green)
+![grade](https://img.shields.io/badge/Grade-110%25-green)
 
 # Challenge 1
 The first challenge was an image classification problem. 
